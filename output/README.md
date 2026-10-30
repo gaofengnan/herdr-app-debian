@@ -2,6 +2,8 @@
 
 # Herdr
 
+> Fork of [dariogriffo/herdr-app-debian](https://github.com/dariogriffo/herdr-app-debian) (MIT); the original packaging is by Dario Griffo. Served at [deb.gaofn.xyz](https://deb.gaofn.xyz) for Debian 12 (bookworm) and 13 (trixie).
+
 **A desktop app for terminals and coding agents.**
 
 ![GitHub License](https://img.shields.io/github/license/herdrdev/herdr-app)
